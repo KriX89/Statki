@@ -1,0 +1,32 @@
+C:\Users\kio-8\Desktop\statki\statki\bin\Debug\statki.exe
+C:\Users\kio-8\Desktop\statki\statki\bin\Debug\statki.pdb
+C:\Users\kio-8\Desktop\statki\statki\obj\x86\Debug\statki.Form1.resources
+C:\Users\kio-8\Desktop\statki\statki\obj\x86\Debug\statki.Properties.Resources.resources
+C:\Users\kio-8\Desktop\statki\statki\obj\x86\Debug\statki.csproj.GenerateResource.Cache
+C:\Users\kio-8\Desktop\statki\statki\obj\x86\Debug\statki.exe
+C:\Users\kio-8\Desktop\statki\statki\obj\x86\Debug\statki.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\bin\Debug\statki.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\bin\Debug\statki.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form1.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form2.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form3.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Properties.Resources.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.csproj.GenerateResource.cache
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\statki\statki\obj\x86\Debug\statki.csproj.ResolveComReference.cache
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\bin\Debug\statki.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\bin\Debug\statki.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.csproj.ResolveComReference.cache
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form1.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form2.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form4.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form5.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form6.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Form7.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.Properties.Resources.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.csproj.GenerateResource.Cache
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\statki\statki\obj\x86\Debug\statki.pdb
